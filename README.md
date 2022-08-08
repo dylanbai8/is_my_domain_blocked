@@ -1,0 +1,2 @@
+# is_my_domain_blocked
+判断你的域名是否被墙或运营商劫持阻断
